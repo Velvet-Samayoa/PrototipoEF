@@ -1,0 +1,9 @@
+C:\Users\Home\Desktop\PR 145\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\Home\Desktop\PR 145\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_ControladorConsultas.pdb
+C:\Users\Home\Desktop\PR 145\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_Modelo.dll
+C:\Users\Home\Desktop\PR 145\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Controlador\bin\Debug\Capa_Modelo.pdb
+C:\Users\Home\Desktop\PR 145\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\PR 145\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\PR 145\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.csproj.CopyComplete
+C:\Users\Home\Desktop\PR 145\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.dll
+C:\Users\Home\Desktop\PR 145\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Controlador\obj\Debug\Capa_ControladorConsultas.pdb
