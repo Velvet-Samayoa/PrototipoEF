@@ -1,0 +1,6 @@
+C:\Users\Home\Desktop\PR 145\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.dll
+C:\Users\Home\Desktop\PR 145\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.pdb
+C:\Users\Home\Desktop\PR 145\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\PR 145\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\PR 145\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.dll
+C:\Users\Home\Desktop\PR 145\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.pdb
